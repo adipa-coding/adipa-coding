@@ -23,7 +23,7 @@
 *   👋 Hi, I'm a developer passionate about building high-quality, interactive applications (like custom PGN viewers!).
 *   💻 I specialize in full-stack development, modern UI design patterns, and clean code architectures.
 *   🚀 I love optimizing performance, adding smooth animations, and learning new tech stacks.
-*   📫 How to reach me: **adipa.coding@gmail.com** (or replace with your real email!)
+*   📫 How to reach me: **adipaudayanga123@gmail.com**
 
 ---
 
@@ -79,8 +79,8 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/adipa-udayanga-32172527a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:adipaudayanga123@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 <p align="center">
