@@ -38,13 +38,6 @@
   <img src="https://img.shields.io/badge/CustomTkinter-2c2c2c?style=for-the-badge&logo=python&logoColor=yellow" />
   
   <br/>
-
-  
-### 📈 Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adipa-coding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adipa-coding&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adipa-coding&theme=tokyonight&hide_border=true)
   
   <!-- Backend & Databases -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
