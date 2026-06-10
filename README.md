@@ -38,7 +38,9 @@
   <img src="https://img.shields.io/badge/CustomTkinter-2c2c2c?style=for-the-badge&logo=python&logoColor=yellow" />
   
   <br/>
-  ### 📈 Metrics
+
+  
+### 📈 Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adipa-coding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipa-coding&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
