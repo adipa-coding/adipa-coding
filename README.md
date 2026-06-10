@@ -78,10 +78,8 @@
 
 ### 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/adipa-udayanga-32172527a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
-<p align="right">
   <a href="mailto:adipaudayanga123@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://share.google/7mwzG81TKf5XcauSX)" alt="Gmail" height="30" width="40" /></a>
 </p>
 
