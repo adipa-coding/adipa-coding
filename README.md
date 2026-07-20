@@ -104,8 +104,8 @@
 
 ## 🏆 `> cat ./trophy-case.json`
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adipa-coding&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
+  <div align="center">
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=adipa-coding&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
