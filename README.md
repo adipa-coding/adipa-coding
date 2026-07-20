@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:003300,70:005500,100:00c6ff&height=280&section=header&text=Hey%20There,%20I'm%20Adipa%20%F0%9F%91%BE&fontSize=42&fontColor=00FF41&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=18&descColor=00c6ff&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/adipa-coding">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=BSc+(Hons)+IT+%7C+Data+Science+Specialization+%F0%9F%8E%93;Building+interactive+apps+%E2%9A%A1;Crafting+custom+PGN+viewers+%E2%99%9F%EF%B8%8F;Exploring+data%2C+models+%26+insights+%F0%9F%93%8A;Linux+%2B+Terminal+enthusiast+%F0%9F%90%A7;Engineering+Govi+Connect+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=BSc+(Hons)+IT+%7C+Data+Science+Specialization+%F0%9F%8E%93;Building+interactive+apps+%E2%9A%A1;Crafting+custom+PGN+viewers+%E2%99%9F%EF%B8%8F;Exploring+data%2C+models+%26+insights+%F0%9F%93%8A;Linux+%2B+Terminal+enthusiast+%F0%9F%90%A7;Engineering+Govi+Connect+%F0%9F%8C%B1;Intermediate+Chess+Player+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
