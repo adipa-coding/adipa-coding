@@ -105,7 +105,7 @@
 ## 🏆 `> cat ./trophy-case.json`
 
   <div align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=adipa-coding&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adipa-coding&theme=matrix&bg_color=0D1117&color=00FF41&line=00c6ff&point=00FF41&area=true&hide_border=true" alt="Activity Graph" width="90%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
