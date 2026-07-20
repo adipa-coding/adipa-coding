@@ -125,13 +125,13 @@
 <a href="https://linkedin.com/in/adipa-udayanga-32172527a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-003333?style=for-the-badge&logo=linkedin&logoColor=00c6ff" alt="LinkedIn"/>
 </a>
-<a href="mailto:adipaudayanga123@gmail.com">
+<a href="mailto:adipaudayanga123@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-0d2b0d?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail"/>
 </a>
-<a href="https://github.com/adipa-coding">
+<a href="https://github.com/adipa-coding" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-003300?style=for-the-badge&logo=github&logoColor=00c6ff" alt="GitHub"/>
 </a>
-<a href="https://www.chess.com/member/the-next-move-sl">
+<a href="https://www.chess.com/member/the-next-move-sl" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chess.com&logoColor=81B64C">
 </a>
 
