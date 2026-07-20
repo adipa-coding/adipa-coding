@@ -21,7 +21,7 @@
 
 ```yaml
 ╔════════════════════════════════════════════════════════════════════════════════════╗
-║           SYSTEM PROFILE — ADIPA UDAYANGA                                          ║
+║                     SYSTEM PROFILE — ADIPA UDAYANGA                                ║
 ╠════════════════════════════════════════════════════════════════════════════════════╣
   name                 :Adipa Udayanga
   degree               :BSc (Hons) IT — Data Science Specialization
