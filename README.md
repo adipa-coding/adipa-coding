@@ -20,19 +20,19 @@
 ## 🖥️ `> whoami`
 
 ```yaml
-╔══════════════════════════════════════════════════════╗
-║           SYSTEM PROFILE — ADIPA UDAYANGA            ║
-╠══════════════════════════════════════════════════════╣
-  name:              Adipa Udayanga
-  degree:            BSc (Hons) IT — Data Science Specialization
-  role:              Full-Stack Developer & Data Science Enthusiast
-  focus:             Interactive Apps, Data-Driven Insights & Modern UI
-  currently_building: Card Chess - The Magnus Carlsen't Favourite Chess Variant ♟️
-  side_project:      Custom PGN (chess) viewer w/ smooth animations ♟️
-  os_of_choice:      Linux 🐧
-  philosophy:        "Simplicity is the soul of efficiency."
-  fun_fact:          I optimize for both performance AND polish ✨
-╚══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════╗
+║           SYSTEM PROFILE — ADIPA UDAYANGA                                          ║
+╠════════════════════════════════════════════════════════════════════════════════════╣
+  name                 :Adipa Udayanga
+  degree               :BSc (Hons) IT — Data Science Specialization
+  role                 :Full-Stack Developer & Data Science Enthusiast
+  focus                :Interactive Apps, Data-Driven Insights & Modern UI
+  currently_building   :Card Chess - The Magnus Carlsen't Favourite Chess Variant ♟️
+  side_project         :Custom PGN (chess) viewer w/ smooth animations ♟️
+  os_of_choice         :Linux 🐧
+  philosophy           :"Simplicity is the soul of efficiency."
+  fun_fact             :I optimize for both performance AND polish ✨
+╚═════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 - 🎓 Pursuing **BSc (Hons) in Information Technology**, specializing in **Data Science**
