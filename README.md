@@ -133,7 +133,7 @@
 </a>
 
 <a href="https://www.chess.com/member/the-next-move-sl">
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7f120457-897a-4309-877e-b42db651cce3" alt="chess.com">
+<img src="https://www.pngitem.com/pimgs/m/22-222739_chess-com-logo-png-transparent-png.png">
 </a>
 
 <br/><br/>
