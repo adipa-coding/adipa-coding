@@ -133,7 +133,7 @@
 </a>
 
 <a href="https://www.chess.com/member/the-next-move-sl">
-<img src="https://www.flaticon.com/free-icon/pawn_657588?term=chess&page=1&position=12&origin=search&related_id=657588" alt="chess.com">
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7f120457-897a-4309-877e-b42db651cce3" alt="chess.com">
 </a>
 
 <br/><br/>
