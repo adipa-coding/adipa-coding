@@ -93,8 +93,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adipa-coding&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00c6ff&text_color=b5e8b0&count_private=true&border_color=00FF41" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipa-coding&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=b5e8b0&langs_count=8" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=adipa-coding&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00c6ff&text_color=b5e8b0&count_private=true&border_color=00FF41" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adipa-coding&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=b5e8b0&langs_count=8" alt="Top Languages" width="42%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adipa-coding&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF41&fire=00c6ff&currStreakLabel=00FF41&sideLabels=00c6ff&dates=b5e8b0" alt="GitHub Streak" width="70%" />
 
