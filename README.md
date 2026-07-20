@@ -132,7 +132,7 @@
   <img src="https://img.shields.io/badge/GitHub-003300?style=for-the-badge&logo=github&logoColor=00c6ff" alt="GitHub"/>
 </a>
 <a href="https://www.chess.com/member/the-next-move-sl" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chess.com&logoColor=81B64C">
+  <img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chess.com&logoColor=81B64C"/>
 </a>
 
 <br/><br/>
