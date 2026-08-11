@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:003300,70:005500,100:00c6ff&height=280&section=header&text=Hey%20There,%20I'm%20Adipa%20%F0%9F%91%BE&fontSize=42&fontColor=00FF41&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=18&descColor=00c6ff&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/adipa-coding">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=BSc+(Hons)+IT+%7C+Data+Science+Specialization+%F0%9F%8E%93;Building+interactive+apps+%E2%9A%A1;Crafting+custom+PGN+viewers+%E2%99%9F%EF%B8%8F;Exploring+data%2C+models+%26+insights+%F0%9F%93%8A;Linux+%2B+Terminal+enthusiast+%F0%9F%90%A7;Intermediate+Chess+Player+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=BSc+(Hons)+IT+%7C+Data+Science+Specialization+%F0%9F%8E%93;Building+interactive+apps+%E2%9A%A1;Crafting+custom+PGN+viewers+%E2%99%9F%EF%B8%8F;Exploring+data%2C+models+%26+insights+%F0%9F%93%8A;Linux+%2B+Terminal+enthusiast+%F0%9F%90%A7;Engineering+Govi+Connect+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,25 +15,19 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<div align="center">
+  <img src="./assets/matrix-rain.svg" width="100%" alt="Matrix Rain Animation"/>
+</div>
+
+<br/>
 
 ## 🖥️ `> whoami`
 
-```yaml
-╔════════════════════════════════════════════════════════════════════════════════════╗
-║                     SYSTEM PROFILE — ADIPA UDAYANGA                                ║
-╠════════════════════════════════════════════════════════════════════════════════════╣
-  name                 :Adipa Udayanga
-  degree               :BSc (Hons) IT — Data Science Specialization
-  role                 :Full-Stack Developer & Data Science Enthusiast
-  focus                :Interactive Apps, Data-Driven Insights & Modern UI
-  currently_building   :Card Chess - The Magnus Carlsen't Favourite Chess Variant ♟️
-  side_project         :Custom PGN (chess) viewer w/ smooth animations ♟️
-  os_of_choice         :Linux 🐧
-  philosophy           :"Simplicity is the soul of efficiency."
-  fun_fact             :I optimize for both performance AND polish ✨
-╚═════════════════════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Animated Terminal Profile"/>
+</div>
+
+<br/>
 
 - 🎓 Pursuing **BSc (Hons) in Information Technology**, specializing in **Data Science**
 - 📊 Deep in **data analysis, machine learning & statistical modeling**
@@ -45,7 +39,13 @@
 - 🌱 Constantly exploring new tech stacks and leveling up
 - 📫 Reach me at **[adipaudayanga123@gmail.com](mailto:adipaudayanga123@gmail.com)**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Glowing Divider"/>
+</div>
+
+<br/>
 
 ## 🛠️ `> ls ./tech-arsenal`
 
@@ -84,30 +84,56 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0d2b0d?style=for-the-badge&logo=github&logoColor=00c6ff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-003300?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
 
+<br/>
+
+### ⚡ Proficiency Radar
+
+<img src="./assets/skill-bars.svg" width="100%" alt="Animated Skill Bars"/>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Glowing Divider"/>
+</div>
+
+<br/>
 
 ## 📊 `> cat ./github-analytics.log`
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=adipa-coding&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00c6ff&text_color=b5e8b0&count_private=true&border_color=00FF41" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adipa-coding&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=b5e8b0&langs_count=8" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=adipa-coding&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00c6ff&text_color=b5e8b0&count_private=true&border_color=00FF41" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipa-coding&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=b5e8b0&langs_count=8" alt="Top Languages" width="42%" />
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adipa-coding&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF41&fire=00c6ff&currStreakLabel=00FF41&sideLabels=00c6ff&dates=b5e8b0" alt="GitHub Streak" width="70%" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Glowing Divider"/>
+</div>
+
+<br/>
 
 ## 🏆 `> cat ./trophy-case.json`
 
-  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adipa-coding&theme=matrix&bg_color=0D1117&color=00FF41&line=00c6ff&point=00FF41&area=true&hide_border=true" alt="Activity Graph" width="90%" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adipa-coding&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Glowing Divider"/>
+</div>
+
+<br/>
 
 ## 📈 `> watch ./contribution-snake.sh`
 
@@ -115,7 +141,13 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Glowing Divider"/>
+</div>
+
+<br/>
 
 ## 🤝 `> ./connect --social`
 
@@ -124,14 +156,11 @@
 <a href="https://linkedin.com/in/adipa-udayanga-32172527a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-003333?style=for-the-badge&logo=linkedin&logoColor=00c6ff" alt="LinkedIn"/>
 </a>
-<a href="mailto:adipaudayanga123@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:adipaudayanga123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0d2b0d?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail"/>
 </a>
-<a href="https://github.com/adipa-coding" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/adipa-coding">
   <img src="https://img.shields.io/badge/GitHub-003300?style=for-the-badge&logo=github&logoColor=00c6ff" alt="GitHub"/>
-</a>
-<a href="https://www.chess.com/member/the-next-move-sl" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chess.com&logoColor=81B64C"/>
 </a>
 
 <br/><br/>

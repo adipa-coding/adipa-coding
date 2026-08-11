@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="860" height="260">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      .bg   { fill:#0D1117; }
+      .tbar { fill:#161b22; }
+      .dot1 { fill:#ff5f57; }
+      .dot2 { fill:#febc2e; }
+      .dot3 { fill:#28c840; }
+      .ln   { font-family:"JetBrains Mono","Courier New",monospace; font-size:13px; fill:#00FF41; }
+      .lk   { fill:#00c6ff; }
+      .ls   { fill:#b5e8b0; }
+      .lc   { fill:#4a5568; }
+      .prompt { fill:#00FF41; font-weight:700; }
+      .border { fill:none; stroke:#00FF41; stroke-width:1; opacity:.35; }
+
+      /* cursor blink */
+      .cur  { fill:#00FF41; animation: blink .9s step-end infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+
+      /* typing reveal — each line fades/slides in */
+      .row  { opacity:0; }
+      .r0  { animation: show .3s .5s  forwards; }
+      .r1  { animation: show .3s .95s forwards; }
+      .r2  { animation: show .3s 1.4s forwards; }
+      .r3  { animation: show .3s 1.85s forwards; }
+      .r4  { animation: show .3s 2.3s  forwards; }
+      .r5  { animation: show .3s 2.75s forwards; }
+      .r6  { animation: show .3s 3.2s  forwards; }
+      .r7  { animation: show .3s 3.65s forwards; }
+      .r8  { animation: show .3s 4.1s  forwards; }
+      .r9  { animation: show .3s 4.55s forwards; }
+      .r10 { animation: show .3s 5.0s  forwards; }
+      .r11 { animation: show .3s 5.45s forwards; }
+      @keyframes show { to { opacity:1; } }
+
+      /* scanline overlay flicker */
+      .scan { animation: flick 6s ease-in-out infinite alternate; }
+      @keyframes flick { 0%{opacity:.07} 60%{opacity:.04} 100%{opacity:.09} }
+
+      /* outer glow pulse */
+      .glowborder { fill:none; stroke:#00FF41; stroke-width:1.5;
+                    filter:drop-shadow(0 0 6px #00FF41);
+                    animation: gp 3s ease-in-out infinite alternate; }
+      @keyframes gp { from{opacity:.3} to{opacity:.7} }
+    </style>
+    <!-- scanline pattern -->
+    <pattern id="sl" x="0" y="0" width="860" height="3" patternUnits="userSpaceOnUse">
+      <rect width="860" height="1" y="1" fill="#00FF41" opacity=".12"/>
+    </pattern>
+    <!-- glow filter -->
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- card background -->
+  <rect class="bg" width="860" height="260" rx="10"/>
+  <!-- title bar -->
+  <rect class="tbar" width="860" height="36" rx="10"/>
+  <rect class="tbar" x="0" y="26" width="860" height="10"/>
+  <!-- traffic lights -->
+  <circle class="dot1" cx="20" cy="18" r="6"/>
+  <circle class="dot2" cx="40" cy="18" r="6"/>
+  <circle class="dot3" cx="60" cy="18" r="6"/>
+  <!-- title text -->
+  <text x="430" y="22" text-anchor="middle"
+        font-family='"JetBrains Mono","Courier New",monospace'
+        font-size="12" fill="#4a5568">adipa@matrix:~</text>
+
+  <!-- scanline overlay -->
+  <rect class="scan" width="860" height="260" rx="10" fill="url(#sl)"/>
+
+  <!-- glowing border -->
+  <rect class="glowborder" x="1" y="1" width="858" height="258" rx="10"/>
+
+  <!-- TERMINAL CONTENT  (starts at y=55, line-height=18) -->
+  <g font-family='"JetBrains Mono","Courier New",monospace' font-size="13" filter="url(#glow)">
+
+    <!-- prompt line -->
+    <text class="row r0" x="20" y="58">
+      <tspan class="prompt">adipa@matrix</tspan><tspan fill="#4a5568">:</tspan><tspan class="lk">~</tspan><tspan fill="#4a5568">$ </tspan><tspan class="ln">cat profile.yaml</tspan>
+    </text>
+
+    <text class="row r1"  x="20" y="76"  fill="#4a5568">───────────────────────────────────────────────────────────────────────</text>
+    <text class="row r2"  x="20" y="94">
+      <tspan class="lk">name</tspan><tspan class="ls">: </tspan><tspan class="ln">Adipa Udayanga</tspan>
+    </text>
+    <text class="row r3"  x="20" y="112">
+      <tspan class="lk">degree</tspan><tspan class="ls">: </tspan><tspan class="ln">BSc (Hons) IT — Data Science Specialization</tspan>
+    </text>
+    <text class="row r4"  x="20" y="130">
+      <tspan class="lk">role</tspan><tspan class="ls">: </tspan><tspan class="ln">Full-Stack Developer &amp; Data Science Enthusiast</tspan>
+    </text>
+    <text class="row r5"  x="20" y="148">
+      <tspan class="lk">building</tspan><tspan class="ls">: </tspan><tspan class="ln">Govi Connect 🌱  (AI paddy disease detection)</tspan>
+    </text>
+    <text class="row r6"  x="20" y="166">
+      <tspan class="lk">side_project</tspan><tspan class="ls">: </tspan><tspan class="ln">Custom PGN chess viewer ♟️</tspan>
+    </text>
+    <text class="row r7"  x="20" y="184">
+      <tspan class="lk">os</tspan><tspan class="ls">: </tspan><tspan class="ln">Linux 🐧  (customized environment)</tspan>
+    </text>
+    <text class="row r8"  x="20" y="202">
+      <tspan class="lk">philosophy</tspan><tspan class="ls">: </tspan><tspan class="ln">"Simplicity is the soul of efficiency."</tspan>
+    </text>
+    <text class="row r9"  x="20" y="220"  fill="#4a5568">───────────────────────────────────────────────────────────────────────</text>
+
+    <!-- second prompt -->
+    <text class="row r10" x="20" y="238">
+      <tspan class="prompt">adipa@matrix</tspan><tspan fill="#4a5568">:</tspan><tspan class="lk">~</tspan><tspan fill="#4a5568">$ </tspan>
+      <!-- blinking cursor -->
+      <tspan class="cur">█</tspan>
+    </text>
+  </g>
+</svg>
