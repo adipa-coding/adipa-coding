@@ -12,13 +12,12 @@
       .ls   { fill:#b5e8b0; }
       .lc   { fill:#4a5568; }
       .prompt { fill:#00FF41; font-weight:700; }
-      .border { fill:none; stroke:#00FF41; stroke-width:1; opacity:.35; }
 
       /* cursor blink */
       .cur  { fill:#00FF41; animation: blink .9s step-end infinite; }
       @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
 
-      /* typing reveal — each line fades/slides in */
+      /* typing reveal */
       .row  { opacity:0; }
       .r0  { animation: show .3s .5s  forwards; }
       .r1  { animation: show .3s .95s forwards; }
@@ -31,7 +30,6 @@
       .r8  { animation: show .3s 4.1s  forwards; }
       .r9  { animation: show .3s 4.55s forwards; }
       .r10 { animation: show .3s 5.0s  forwards; }
-      .r11 { animation: show .3s 5.45s forwards; }
       @keyframes show { to { opacity:1; } }
 
       /* scanline overlay flicker */
@@ -44,41 +42,29 @@
                     animation: gp 3s ease-in-out infinite alternate; }
       @keyframes gp { from{opacity:.3} to{opacity:.7} }
     </style>
-    <!-- scanline pattern -->
     <pattern id="sl" x="0" y="0" width="860" height="3" patternUnits="userSpaceOnUse">
       <rect width="860" height="1" y="1" fill="#00FF41" opacity=".12"/>
     </pattern>
-    <!-- glow filter -->
     <filter id="glow">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <!-- card background -->
   <rect class="bg" width="860" height="260" rx="10"/>
-  <!-- title bar -->
   <rect class="tbar" width="860" height="36" rx="10"/>
   <rect class="tbar" x="0" y="26" width="860" height="10"/>
-  <!-- traffic lights -->
   <circle class="dot1" cx="20" cy="18" r="6"/>
   <circle class="dot2" cx="40" cy="18" r="6"/>
   <circle class="dot3" cx="60" cy="18" r="6"/>
-  <!-- title text -->
   <text x="430" y="22" text-anchor="middle"
         font-family='"JetBrains Mono","Courier New",monospace'
         font-size="12" fill="#4a5568">adipa@matrix:~</text>
 
-  <!-- scanline overlay -->
   <rect class="scan" width="860" height="260" rx="10" fill="url(#sl)"/>
-
-  <!-- glowing border -->
   <rect class="glowborder" x="1" y="1" width="858" height="258" rx="10"/>
 
-  <!-- TERMINAL CONTENT  (starts at y=55, line-height=18) -->
   <g font-family='"JetBrains Mono","Courier New",monospace' font-size="13" filter="url(#glow)">
-
-    <!-- prompt line -->
     <text class="row r0" x="20" y="58">
       <tspan class="prompt">adipa@matrix</tspan><tspan fill="#4a5568">:</tspan><tspan class="lk">~</tspan><tspan fill="#4a5568">$ </tspan><tspan class="ln">cat profile.yaml</tspan>
     </text>
@@ -107,10 +93,8 @@
     </text>
     <text class="row r9"  x="20" y="220"  fill="#4a5568">───────────────────────────────────────────────────────────────────────</text>
 
-    <!-- second prompt -->
     <text class="row r10" x="20" y="238">
       <tspan class="prompt">adipa@matrix</tspan><tspan fill="#4a5568">:</tspan><tspan class="lk">~</tspan><tspan fill="#4a5568">$ </tspan>
-      <!-- blinking cursor -->
       <tspan class="cur">█</tspan>
     </text>
   </g>
