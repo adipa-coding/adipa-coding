@@ -15,10 +15,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="./assets/matrix-rain.svg" width="100%" alt="Matrix Rain Animation"/>
-</div>
-
 <br/>
 
 ## 🖥️ `> whoami`
